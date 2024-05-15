@@ -1,0 +1,14 @@
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\bin\Debug\net6.0\ConsoleApp34.exe
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\bin\Debug\net6.0\ConsoleApp34.deps.json
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\bin\Debug\net6.0\ConsoleApp34.runtimeconfig.json
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\bin\Debug\net6.0\ConsoleApp34.dll
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\bin\Debug\net6.0\ConsoleApp34.pdb
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.AssemblyInfoInputs.cache
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.AssemblyInfo.cs
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.dll
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\refint\ConsoleApp34.dll
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.pdb
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ConsoleApp34.genruntimeconfig.cache
+C:\Users\elekb\Downloads\New folder\ConsoleApp34\ConsoleApp34\obj\Debug\net6.0\ref\ConsoleApp34.dll
